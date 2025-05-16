@@ -1,0 +1,9 @@
+langchain
+openai
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic
+azure-identity
+langchain_community
