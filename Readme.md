@@ -23,7 +23,7 @@ This project is a small Python application that translates natural language quer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/llm-graphql-agent.git
+   git clone https://github.com/Hunzala-Rasheed1/Agent.git
    cd llm-graphql-agent
    ```
 
